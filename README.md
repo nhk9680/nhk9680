@@ -10,7 +10,7 @@
 
 - <details><summary>And...</summary>
   <p>
-  Display, Computer Architecture, OS,   ... etc.
+    <sub>Display, Computer Architecture, OS,   ... etc.</sub>
   </p>
 </details>
 
@@ -34,7 +34,7 @@
 - Embedded Board
   - Arduino / Raspberry Pi / Jetson Nano
 
-## 👯 Cute Career
+## 👯 Career
 - 17' [MINES Lab.](http://home.sejong.ac.kr/~hyungkim/4.html)
 - 19' [RCV Lab.](https://www.rcv.sejong.ac.kr/)
 - 17'~ [Interface group](http://interface.or.kr/)
