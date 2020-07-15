@@ -36,7 +36,7 @@
 
 ## 👯 Career
 - 17' [MINES Lab.](http://home.sejong.ac.kr/~hyungkim/4.html)
-- 19' [RCV Lab.](https://www.rcv.sejong.ac.kr/)
+- 19' [RCV Sejong Lab.](https://www.rcv.sejong.ac.kr/)
 - 17'~ [Interface group](http://interface.or.kr/)
 
 ## Experience
