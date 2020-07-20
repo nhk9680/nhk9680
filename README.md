@@ -10,7 +10,7 @@
 
 - <details><summary>And...</summary>
   <p>
-    <sub>Display, Computer Architecture, OS,   ... etc.</sub>
+    <sub>Display, CS, ... etc.</sub>
   </p>
 </details>
 
@@ -46,6 +46,9 @@
 - 강화학습을 이용한 밸런싱 로봇 제어 시스템<br><sub>김남훈, 권영서, 강산희, 엄단경, 박진현, 송진우. (2020) 대한전기학회 학술대회 논문집(예정)</sub>
 <!-- 김민기, 장인권, 이승법. (2019). 다중무선전력전송시스템의 전송 효율 최대화를 위한 공진 최적화 방법론. 대한전기학회 학술대회 논문집, (),  1-2. -->
 
+## Portfolio
+- [Slideshare](https://www.slideshare.net/NamhoonKim18)
+- [Computer Vision Workshop & Conference](https://www.notion.so/nhk9680/Computer-Vision-ce8a87dd261941fbacc72c7510433cd6)
   
 <!-- - I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
