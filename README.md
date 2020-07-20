@@ -107,13 +107,14 @@
 - [Computer Vision Workshop & Conference](https://www.notion.so/nhk9680/Computer-Vision-ce8a87dd261941fbacc72c7510433cd6)
   
 <details><summary>Oh, I've heard of... </summary>
-  - Tensorboard
-  - PyTorch
-  - Keras
-  - Caffe
-  - Scale-aware
-  - Sensor Fusion
-  - Encoder-Decoder
+  
+- Tensorboard
+- PyTorch
+- Keras
+- Caffe
+- Scale-aware
+- Sensor Fusion
+- Encoder-Decoder
 </details>  
   
 <!-- - I’m looking to collaborate on ... 
