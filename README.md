@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-> ✨ Experienced with **computer vision**, especially pedestrian detection✨
+> Experienced with 📷**computer vision**🖼, especially ✨pedestrian detection✨<br>and 🔭**wide range** of various platform
 
-- 🔭 currently in  [**Dept. of Intelligent Mechatronic Engineering, Sejoing Univ.**](http://imc.sejong.ac.kr/page/sub2_1)
+- ✒ currently in  [**Dept. of Intelligent Mechatronic Engineering, Sejoing Univ.**](http://imc.sejong.ac.kr/page/sub2_1)
 
 ## 🌱 major
 
@@ -10,7 +10,7 @@
 - `Machine Learning` / `Deep Learning`
 
 - <details><summary>And...</summary>
-    <sub>Display, CS, ... etc.</sub>
+    <sub>Display, CS, DSP, ... etc.</sub>
 </details>
 
 ## Interest
@@ -19,12 +19,11 @@
 - Generative Adversarial Networks
 
 ## 👯 Career
-- 17' [MINES Lab.](http://home.sejong.ac.kr/~hyungkim/4.html)
-- 19' [RCV Sejong Lab.](https://www.rcv.sejong.ac.kr/)
+- 17' [MINES(Mobile INtelligent Embedded Systems) Lab.](http://home.sejong.ac.kr/~hyungkim/4.html)
+- 19' [RCV(Robotics and Computer Vision) Lab.](https://www.rcv.sejong.ac.kr/)
 - 17'~ [Interface group](http://interface.or.kr/)
 
 ## Experience
-- **wide range** of various platform
 
 - DGX-1(NVIDIA GPU Server) management
 - real-time pedestrian detection using Jetson Nano & FLIR GigE RGB / Thermal @ RCV
