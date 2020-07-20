@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-> ✨ _What do you need? **nhkim** is here, always be there._ ✨
+> ✨ Experienced with **computer vision**, especially pedestrian detection✨
 
 - 🔭 currently in  [**Dept. of Intelligent Mechatronic Engineering, Sejoing Univ.**](http://imc.sejong.ac.kr/page/sub2_1)
 
 ## 🌱 major
+
 - **`Computer Vision`** / `Image Processing`
 - `Machine Learning` / `Deep Learning`
 
 - <details><summary>And...</summary>
-  <p>
     <sub>Display, CS, ... etc.</sub>
-  </p>
 </details>
 
 ## ⚡ Interest
@@ -24,7 +23,6 @@
 - **Python3**
 - MATLAB(+Simulink)
 - Java / Android
-- ~~HTML/CSS/JS~~ 
 
 ## Skill
 - OpenCV (C++/Python)
@@ -41,6 +39,8 @@
 - 17'~ [Interface group](http://interface.or.kr/)
 
 ## Experience
+- **wide range** of various platform
+
 - DGX-1(NVIDIA GPU Server) management
 - real-time pedestrian detection using Jetson Nano & FLIR GigE RGB / Thermal @ RCV
 - C/Python programming freshmen class TA
