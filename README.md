@@ -28,6 +28,7 @@
 - DGX-1(NVIDIA GPU Server) management
 - real-time pedestrian detection using Jetson Nano & FLIR GigE RGB / Thermal @ RCV
 - C/Python programming freshmen class TA
+- Multiple experience of data annotation(labeling)
 - <details><summary>conference</summary>
   <sub>DEVIEW 2018/2019</sub><br>
   <sub>IPIU 2019</sub><br>
@@ -53,11 +54,10 @@
 
 - [보행자 장애물 위험도 분류기](https://github.com/nhk9680/SituationClassifier)
   - Data preprocessing
-  - Annoatation(labeling): VoTT
+  - Annoatation(labeling)
   - classification
 
 - [paper implementation: Bag Of visual Words](https://github.com/nhk9680/PatternRecognition)
-  - Pattern Recognition
   - SVM, PCA, LDA, Decision Tree, Random Forest, AdaBoost
   - SPM, Augmentation
 
