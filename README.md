@@ -26,7 +26,6 @@
 ## Experience
 
 - DGX-1(NVIDIA GPU Server) management
-- real-time pedestrian detection using Jetson Nano & FLIR GigE RGB / Thermal @ RCV
 - C/Python programming freshmen class TA
 - Multiple experience of data annotation(labeling)
 - <details><summary>conference</summary>
@@ -51,6 +50,10 @@
   - communication: USB , bluetooth, ngrok<br>
   - System Integration<br>
 </details>
+
+- real-time pedestrian detection @ RCV
+    - FLIR GigE RGB / Thermal Camera
+    - Jetson Nano
 
 - [보행자 장애물 위험도 분류기](https://github.com/nhk9680/SituationClassifier)
   - Data preprocessing
