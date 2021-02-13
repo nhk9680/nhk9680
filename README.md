@@ -16,20 +16,24 @@
 
 ## Skill
 - OpenCV (Python)
+- pytorch
 - Embedded Board
   - Arduino / Raspberry Pi / Jetson Nano
 - Web Crawling
+---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+## etc.
 
 ### Career
 - 17' [MINES(Mobile INtelligent Embedded Systems) Lab.](http://home.sejong.ac.kr/~hyungkim/4.html)
