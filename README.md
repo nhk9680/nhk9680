@@ -1,47 +1,58 @@
-### Hi there 👋
+> Experienced with **computer vision**, pedestrian detection
 
-> Experienced with 📷**computer vision**🖼, especially ✨pedestrian detection✨<br>and 🔭**wide range** of various platform
+- 21'~, working for [Stryx, Inc.](https://www.stryx.co.kr/)
+- 17'~21', [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1)
 
-- ✒ currently in  [**Dept. of Intelligent Mechatronic Engineering, Sejoing Univ.**](http://imc.sejong.ac.kr/page/sub2_1)
-
-## 🌱 major
+## major
 
 - **`Computer Vision`** / `Image Processing`
+    - Object Detection(Pedestrian Detection)
 - `Machine Learning` / `Deep Learning`
 
-- <details><summary>And...</summary>
-    <sub>Display, CS, DSP, ... etc.</sub>
-</details>
+## Language
+- **Python3**
+- C / C++
+- MATLAB(+Simulink)
 
-## Interest
-- Object Detection(Pedestrian Detection)
-- Image Denoising / Super Resolution
-- Generative Adversarial Networks
+## Skill
+- OpenCV (Python)
+- Embedded Board
+  - Arduino / Raspberry Pi / Jetson Nano
+- Web Crawling
 
-## 👯 Career
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Career
 - 17' [MINES(Mobile INtelligent Embedded Systems) Lab.](http://home.sejong.ac.kr/~hyungkim/4.html)
 - 19' [RCV(Robotics and Computer Vision) Lab.](https://www.rcv.sejong.ac.kr/)
 - 17'~ [Interface group](http://interface.or.kr/)
 
-## Experience
+### Experience
 
 - DGX-1(NVIDIA GPU Server) management
 - C/Python programming freshmen class TA
-- Multiple experience of data annotation(labeling)
-- <details><summary>conference</summary>
+- data annotation(labeling)
+- <details><summary>conferences</summary>
   <sub>DEVIEW 2018/2019</sub><br>
   <sub>IPIU 2019</sub><br>
   <sub>KCCV 2019</sub><br>
   <sub>ICCV 2019</sub><br>
   <sub>PyCon 2019</sub><br>
   <sub>SOSCON 2019 / Bixby Developer Day 2019</sub><br>
-  <sub>IPIU 2019</sub><br>
   <sub>NVIDIA AI Conference 2019 / DLI Workshop</sub><br>
-  <sub>IPIU 2019</sub><br>
 </details>
 
 
-## Project
+### Project
 - <details><summary>Capstone: self-balancing robot control system using camera and reinforcement learning</summary>
   - MATLAB / Simulink: body modeling , RL reward design<br>
   - App: android backend / sensor data floating using graph<br>
@@ -64,10 +75,7 @@
   - SVM, PCA, LDA, Decision Tree, Random Forest, AdaBoost
   - SPM, Augmentation
 
-- 수질 관리 시스템
-  - 카메라와 센서를 이용한 수질 측정
-
-- <details><summary>Toy project</summary>
+- <details><summary>Toy projects</summary>
 
   - Python Beautifulsoup / Selenium
   - Telegram API Alert
@@ -78,50 +86,8 @@
 
   - 수강신청 잔여석 알림
     - Telegram API
-    
-  - 온라인 수업 출석 조회
   
 </details>
 
-## Paper
-- 강화학습을 이용한 밸런싱 로봇 제어 시스템<br><sub>김남훈, 권영서, 강산희, 엄단경, 박진현, 송진우. (2020) 대한전기학회 학술대회 논문집(예정)</sub>
-<!-- 김민기, 장인권, 이승법. (2019). 다중무선전력전송시스템의 전송 효율 최대화를 위한 공진 최적화 방법론. 대한전기학회 학술대회 논문집, (),  1-2. -->
-
-## Language
-- **C** / C++
-- **Python3**
-- MATLAB(+Simulink)
-- Java / Android
-
-## Skill
-- OpenCV (C++/Python)
-- Tensorflow
-- Linux
-- Docker
-- Embedded Board
-  - Arduino / Raspberry Pi / Jetson Nano
-- Web Crawling
-
-
-## Portfolio
-- [Slideshare](https://www.slideshare.net/NamhoonKim18)
-- [Computer Vision Workshop & Conference](https://www.notion.so/nhk9680/Computer-Vision-ce8a87dd261941fbacc72c7510433cd6)
-  
-<details><summary>Oh, I've heard of... </summary>
-  
-- Tensorboard
-- PyTorch
-- Keras
-- Caffe
-- Scale-aware
-- Sensor Fusion
-- Encoder-Decoder
-</details>  
-  
-<!-- - I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Paper
+- Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JIn Woo Song, "Self-Balancing Robot Control System Using Reinforcement Learning," The 51st KIEE Summer Conference 2020, Busan, Korea, July 15-17, 2020.
